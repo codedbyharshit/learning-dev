@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What does IaaS stands for?",
+        option1: "Internet as a Service",
+        option2: "Infrastructure as a Service",
+        option3: "Information as a Service",
+        option4: "Internal as a Service",
+        ans: 2,
+    },
+    {
+        question: "What characteristic of cloud computing allows resources to be shared and pooled for use by multiple customers?",
+        option1: "On-demand self-service",
+        option2: "Broad network access",
+        option3: "Rapid elasticity",
+        option4: "Resource pooling",
+        ans: 4,
+    },
+    {
+        question: "Which type of cloud deployment is dedicated to a single organization?",
+        option1: "Public cloud",
+        option2: "Private cloud",
+        option3: "Hybrid cloud",
+        option4: "Community cloud",
+        ans: 2,
+    },
+    {
+        question: "Which NIST characteristic refers to the ability of cloud systems to quickly and automatically scale resources up or down based on demand?",
+        option1: "Resource pooling",
+        option2: "Measured service",
+        option3: "Rapid elasticity",
+        option4: "On-Demand Self-Service",
+        ans: 3,
+    },
+    {
+        question: "Google Docs or Salesforce are commonly used examples of?",
+        option1: "IaaS",
+        option2: "Paas",
+        option3: "Saas",
+        option4: "Faas",
+        ans: 3,
+    },
+];
